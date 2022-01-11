@@ -1,4 +1,4 @@
-function promiseRunner(data)P{
+function promiseRunner(data){
   return new Promise((resolve, reject) => {
     if(data){
     console.log("Promise Solved");
